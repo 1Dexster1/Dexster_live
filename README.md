@@ -1,7 +1,7 @@
 # Dexster Live ⚽📺
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1Dexster1/Dexster_live/main/app/src/main/res/drawable/logo.png" alt="Dexster Live Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/1Dexster1/Dexster_live/logo.png" alt="Dexster Live Banner" width="100%">
   <br><br>
   <img src="https://img.shields.io/github/downloads/1Dexster1/Dexster_live/total?style=for-the-badge&color=238636&label=%D8%A5%D8%AC%D9%85%D8%A7%D9%84%D9%8A%20%D8%A7%D9%84%D8%AA%D9%86%D8%B2%D9%8A%D9%84%D8%A7%D8%AA%20%7C%20Total%20Downloads" alt="Total Downloads">
 </p>
