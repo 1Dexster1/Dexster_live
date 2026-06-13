@@ -12,8 +12,7 @@
 - **Live Match Streams**: Aggregates the best quality streams with a data-saving SD mode.
 - **Real-Time Push Notifications**: Get notified instantly for Goals ⚽, Red Cards 🟥, Yellow Cards 🟨, and Match kickoffs.
 - **In-App Auto Update**: The app seamlessly checks for new releases on GitHub and updates itself.
-- **Premium UI/UX**: Cinematic animations, dynamic team logos, and dark mode optimizations.
-- **Admin Dashboard**: Web interface for admins to broadcast global custom notifications to all app users.
+- **Premium UI/UX**
 
 ---
 
@@ -22,11 +21,10 @@
 **دكستر لايف** هو تطبيق أندرويد احترافي ومجاني لمشاهدة البث المباشر لمباريات كرة القدم. يتميز بواجهة مستخدم سينمائية، وتغطية حية لأحداث المباريات، مع نظام إشعارات فوري لإبقائك على اطلاع دائم. 
 
 ### 🌟 المميزات الرئيسية
-- **بث مباشر بجودات متعددة**: يوفر أفضل الروابط للمباريات مع وضع "SD" لتوفير باقة الإنترنت.
+- **بث مباشر hd وتغطيه لكل الماتشات**
 - **إشعارات فورية (لحظة بلحظة)**: تنبيهات سريعة عند تسجيل الأهداف ⚽، أو إشهار الكروت الحمراء 🟥 والصفراء 🟨، وبداية المباريات.
 - **تحديث تلقائي من داخل التطبيق**: لا داعي للبحث عن التحديثات، التطبيق سيكتشف التحديثات الجديدة من جيتهب ويقوم بتحميلها وتثبيتها تلقائياً.
-- **تصميم احترافي**: واجهة حديثة باستخدام Jetpack Compose مع تأثيرات بصرية رائعة.
-- **لوحة تحكم للإدارة**: واجهة ويب لإرسال إشعارات مخصصة لجميع مستخدمي التطبيق بضغطة زر.
+- **تصميم احترافي**
 
 ---
 
