@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Dexster Live</title>
+    <script>
+        window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const matchId = urlParams.get('match');
+            
+            if (matchId) {
+                const appScheme = "dexsterlive://match/" + matchId;
+                const downloadUrl = "https://github.com/1Dexster1/Dexster_live/releases/latest/download/app-release.apk";
+                
+                let appOpened = false;
+
+                document.addEventListener('visibilitychange', () => {
+                    if (document.hidden) appOpened = true;
+                });
+                window.addEventListener('blur', () => { appOpened = true; });
+                window.addEventListener('pagehide', () => { appOpened = true; });
+
+                window.location.href = appScheme;
+
+                setTimeout(() => {
+                    if (!appOpened) {
+                        window.location.href = downloadUrl;
+                    }
+                }, 1500);
+            } else {
+                window.location.href = "https://github.com/1Dexster1/Dexster_live";
+            }
+        };
+    </script>
+</head>
+<body style="background: #000;">
+</body>
+</html>
